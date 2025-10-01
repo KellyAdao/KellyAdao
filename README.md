@@ -2,10 +2,6 @@
 
 **`Desenvolvedora Front-End`**
 
-Oi, eu sou a Kelly 👋  
-Tenho 28 anos, sou de Minas Gerais e formada em Direito, mas sempre fui apaixonada por tecnologia.
-Atualmente curso Análise e Desenvolvimento de Sistemas e tenho me dedicado ao desenvolvimento de soluções digitais, com foco em Front-end e Mobile.
-Busco unir criatividade e técnica para transformar ideias em projetos práticos e relevantes, além de compartilhar conhecimento e experiências sobre o universo da programação. 
 📲 No Instagram "[@kellycode_](https://www.instagram.com/kellycode_/)" divido meus estudos, projetos e conteúdos sobre tecnologia e desenvolvimento.
 
 ---
@@ -86,7 +82,7 @@ Busco unir criatividade e técnica para transformar ideias em projetos práticos
 />
 
 
-<picture align="center">
+<!--<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KellyAdao/KellyAdao/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KellyAdao/KellyAdao/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KellyAdao/KellyAdao/output/github-contribution-grid-snake.svg">
